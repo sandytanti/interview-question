@@ -1,0 +1,82 @@
+Jenkins
+
+1> what is jenkins
+2> Advantages of Jenkins
+3> What is the relation between Hudson and Jenkins
+4> Why we need jenkins 
+5> What Jenkins can do
+6> What is Continuous integration 
+7> What is Continuous delivery 
+8> How CI work? How people Day to Day  work?
+9> Diff b/w continuous delivery and continuous deployment 
+10> What is production environment
+11> What is Artifact 
+12> Benefits of CI
+13> Jenkins work flow
+14> Installing jenkins on Linux machines
+15> Creating First Job in Jenkins 
+16> Jenkins Job with with GIT Hub Repo + Maven – Integration
+17> Steps To Create Jenkins Job with Git Repo + Maven + Tomcat Server
+18> How to change Jenkins port
+19> If we forgot Jenkins Password, then how to recover it 
+20> What do mean by Build
+21> what is jenkins home dirctory 
+22> How to restart the Jenkins
+21> How many jobs files in jenkins
+22> what is jenkins plugins
+23> What kind of plugins you have installed and used
+24> what is green ball plugin in jenkins
+25> Where does jenkins store its configuration data
+26> If jenkins becomes slow what actions do you take? How do you approach
+27> How do you manage builds
+28> How do you manage plugins
+29> How do you clone a job in jenkins
+30> What is the requirement for using Jenkins 
+31> Mention what are the two components Jenkins is mainly integrated with
+32> Why do we use Jenkins with selenium
+33> What is the difference between Maven, Ant and Jenkins?
+34> How do you Troubleshooting of build failure
+35> Jenkins Security--User Administration in Jenkins
+36> what is configure global security
+37> what is build periodically
+38> What is POLL SCM 
+39> Email notifications
+40> How to remove/delete the User in Jenkins
+41> How to see the list of Users in Jenkins
+42> How do you stop jenkins when some build jobs are in progress
+43> How do you migrate jenkins from one machine to another machine
+44> Where does jenkins store global configuration and job related configuration
+45> How to back up Jenkins Jobs and Configurations
+46> how to remove old builds from jenkins
+47> Master and slave
+48> Jenkins Pipeline
+49> Jenkins provides two ways of developing a pipeline
+         Scripted
+         Declarative
+50> Multi Branch Pipeline
+51> Build Pipeline + Sonar Qube Server - Script
+52> JENKINS PIPELINE ( JENKINS + MAVEN + GIT HUB + SONAR + TOMCAT )
+53> BlueOcean Plugin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
